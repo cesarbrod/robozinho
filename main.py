@@ -9,7 +9,7 @@ import random
 olas = ['Olá ', 'Oi ', 'Salve ', 'E aí ', 'Opa ', 'Aê ']
 tchaus = ['Tchau!', 'Até logo!', 'Até mais!', 'Até breve!', 'Bora!', 'Adeus!']
 chaves = ['música', 'rock', 'mãe', 'programação']
-respostas = ['Adoro música!', 'Rock não é coisa do diabo?', 'Senti uma vive meio edipiana na nossa conversa...', 'Ei!!! Eu sou um programa! :-)']
+respostas = ['Adoro música!', 'Rock não é coisa do diabo?', 'Senti uma vibe meio edipiana na nossa conversa...', 'Ei!!! Eu sou um programa! :-)']
              
 # Boas vindas ao usuário
 print("Oi! Eu sou o robozinho!")
